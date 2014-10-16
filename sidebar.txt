@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[caa:home|Door43 (caa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-caa|d43-caa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-caa/archive/master.zip|d43-caa.zip]]
+
+**Recent Changes**
+{{changes>ns = caa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/caa|Ethnologue data]]
+
